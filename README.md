@@ -22,9 +22,9 @@ Not working:
 - Hibernation: kinda buggy
 
 Goal:
-- Update to Catalina
+- Updating to Catalina
 - Fixing sleep and hibernation
-- Replace current WIFI card
+- Replacing current WIFI card
 - Probably buying a 500GB SSD cause 128gb is not enough
 
 If you have any question, feel free to contact me:
