@@ -26,8 +26,11 @@
 **_Goal:_**
 - Updating to Catalina and Big Sur
 ~~- Fixing sleep and hibernation~~ Done
+
 ~~- Replacing current WIFI card~~ Done
+
 ~~- Probably buying a 500GB SSD cause 128gb is not enough~~ Need reconsideration :<
+
 
 If you have any question, feel free to contact me:
 - Email: hoanganh170788@gmail.com
