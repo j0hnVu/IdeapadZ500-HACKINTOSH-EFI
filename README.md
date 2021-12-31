@@ -27,7 +27,7 @@
 - Updating to Catalina and Big Sur
 ~~- Fixing sleep and hibernation~~ Done
 
-~~- Replacing current WIFI card~~ Done
+~~- Replacing current WIFI card~~ Done _( Need BIOS Modding tho )_
 
 ~~- Probably buying a 500GB SSD cause 128gb is not enough~~ Need reconsideration :<
 
