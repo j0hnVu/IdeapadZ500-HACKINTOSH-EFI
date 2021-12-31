@@ -25,6 +25,7 @@
 
 **_Goal:_**
 - Updating to Catalina and Big Sur
+
 ~~- Fixing sleep and hibernation~~ Done
 
 ~~- Replacing current WIFI card~~ Done _( Need BIOS Modding tho )_
