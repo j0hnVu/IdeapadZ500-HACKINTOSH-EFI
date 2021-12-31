@@ -18,7 +18,8 @@
 **_Version installed_**: Mojave
 
 **_Not working:_**
-- Touchpad: kinda buggy, need new kext
+- Touchpad: kinda buggy, need new kext.
+
 ~~**- Bluetooth**: hardware issue~~
 > I bought a new Wifi card without bluetooth :<
 
