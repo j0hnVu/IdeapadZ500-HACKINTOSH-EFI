@@ -32,6 +32,16 @@
 
 ~~- Probably buying a 500GB SSD cause 128gb is not enough~~ Need reconsideration :<
 
+**_Tutorial_**
+_Installation:_ Mount the EFI partition and copy the EFI to mentioned partition.
+_Adding Opencore boot option(Thanks to @big-stiff):_
+- If your BIOS supports adding new boot entry, you can set with the path below
+> EFI/Boot/BOOTx64.efi *(Currently using)*
+or
+> EFI/OC/Opencore.efi
+- If your BIOS doesnt, you can easily add by using BOOTICE ( Windows required )
+Detailed instruction will soon be provided!
+
 
 If you have any question, feel free to contact me:
 - Email: hoanganh170788@gmail.com
