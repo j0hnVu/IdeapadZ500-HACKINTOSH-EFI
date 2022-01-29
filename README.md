@@ -15,16 +15,18 @@
 - Ethernet :            Realtek RTL8139/810x Fast Ethernet Adapter
 - Drive :               YGC-SA3-120G YinChu SATA3 120GB SSD
 
-**_Version installed_**: Mojave
-
+**_Version installed_**:
+* Mojave
+* Big Sur
 **_Not working:_**
-- Touchpad: kinda buggy, need new kext.
+- Touchpad: ~~kinda buggy, need new kext.~~ TOTALLY FINE, just need a little setting
 
 ~~**- Bluetooth**: hardware issue~~
 > I bought a new Wifi card without bluetooth :<
 
 **_Goal:_**
-- Updating to Catalina and Big Sur
+~~- Updating to Catalina and Big Sur~~
+> I managed to install Big Sur, therefore I'm skipping Catalina!
 
 ~~- Fixing sleep and hibernation~~ Done
 
@@ -41,6 +43,7 @@ or
 > EFI/OC/Opencore.efi
 - If your BIOS doesnt, you can easily add by using BOOTICE ( Windows required )
 Detailed instruction will soon be provided!
+> Not really since I gave up on Windows 
 
 
 If you have any question, feel free to contact me:
