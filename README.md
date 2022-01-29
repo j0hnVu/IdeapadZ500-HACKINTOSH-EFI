@@ -18,6 +18,7 @@
 **_Version installed_**:
 * Mojave
 * Big Sur
+
 **_Not working:_**
 - Touchpad: ~~kinda buggy, need new kext.~~ TOTALLY FINE, just need a little setting
 
@@ -25,6 +26,7 @@
 > I bought a new Wifi card without bluetooth :<
 
 **_Goal:_**
+
 ~~- Updating to Catalina and Big Sur~~
 > I managed to install Big Sur, therefore I'm skipping Catalina!
 
@@ -35,6 +37,7 @@
 ~~- Probably buying a 500GB SSD cause 128gb is not enough~~ Need reconsideration :<
 
 **_Tutorial_**
+
 _Installation:_ Mount the EFI partition and copy the EFI to mentioned partition.
 _Adding Opencore boot option(Thanks to @big-stiff):_
 - If your BIOS supports adding new boot entry, you can set with the path below
@@ -46,7 +49,8 @@ Detailed instruction will soon be provided!
 > Not really since I gave up on Windows 
 
 
-If you have any question, feel free to contact me:
+**If you have any question, feel free to contact me:**
+
 - Email: hoanganh170788@gmail.com
 - Discord: ZooLs#4487
 I will try my best to answer your question.
