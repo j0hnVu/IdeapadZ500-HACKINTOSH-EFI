@@ -1,4 +1,4 @@
-# LenovoIdeapadZ500-Mojave-EFI
+# LenovoIdeapadZ500-Hackintosh-EFI
 
 **Lenovo Ideapad Z500 Hackintosh**
 
