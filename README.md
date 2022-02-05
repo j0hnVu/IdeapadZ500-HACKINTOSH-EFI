@@ -17,24 +17,8 @@
 
 **_Version installed_**:
 * Mojave
+* Catalina
 * Big Sur
-
-**_Not working:_**
-- Touchpad: ~~kinda buggy, need new kext.~~ TOTALLY FINE, just need a little setting
-
-~~**- Bluetooth**: hardware issue~~
-> I bought a new Wifi card without bluetooth :<
-
-**_Goal:_**
-
-~~- Updating to Catalina and Big Sur~~
-> I managed to install Big Sur, therefore I'm skipping Catalina!
-
-~~- Fixing sleep and hibernation~~ Done
-
-~~- Replacing current WIFI card~~ Done _( Need BIOS Modding tho )_
-
-~~- Probably buying a 500GB SSD cause 128gb is not enough~~ Need reconsideration :<
 
 **_Tutorial_**
 
