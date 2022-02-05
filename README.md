@@ -25,7 +25,7 @@ _Preparation:_
 * MAC OS (offline or online) installer USB
 * Minitool Partition Wizard (FREE)
 * Explorer++ (FREE)
-* EFI folder can be found in the [Release section](https://github.com/ZooLs09/IdeapadZ500-HACKINTOSH-EFI/releases)
+* EFI folder can be found in the [Release section](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases)
 
 _Installation:_ 
 - Assign letter the EFI partition 
