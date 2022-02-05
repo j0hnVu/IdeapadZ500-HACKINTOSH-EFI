@@ -11,6 +11,7 @@
   	                    Standard PS/2 Keyboard
 - AudioCodec :          Realtek ALC269 @ Intel Panther Point PCH - High Definition Audio Controller
 - WIFI :               	~~Atheros AR9485 Wireless Network Adapter~~
+
                         DW1510 BCM94322HM8L (Affordable, no bluetooth)
 - Ethernet :            Realtek RTL8139/810x Fast Ethernet Adapter
 - Drive :               YGC-SA3-120G YinChu SATA3 120GB SSD
