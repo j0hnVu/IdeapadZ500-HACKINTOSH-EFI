@@ -30,19 +30,19 @@ _Preparation:_
 * EFI folder can be found in the [Release section](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases)
 
 _Installation:_ 
-- Assign letter the EFI partition 
++ Assign letter the EFI partition 
 * Open Minitool Partition Wizard on the installer USB
 * Find FAT32 partition (~100MB) on your USB drive
 * Right click on the partition, select "Assign letter", and choose the letter (e.g I:)
 * Click APPLY
-- Copy the EFI folder to the installer USB
++ Copy the EFI folder to the installer USB
 * Open Explorer++
 * Open EFI partition (I: aforementioned)
 * Copy and paste the EFI folder into the partition
-- Restart and boot to the USB.
-- Open Disk Utility 
-- Erase the drive or partition you wish to install Mac OS on
-- Install MAC OS
++ Restart and boot to the USB.
++ Open Disk Utility 
++ Erase the drive or partition you wish to install Mac OS on
++ Install MAC OS
 
 _Adding Opencore boot option(Thanks to @big-stiff):_
 - If your BIOS supports adding new boot entry, you can set with the path below
