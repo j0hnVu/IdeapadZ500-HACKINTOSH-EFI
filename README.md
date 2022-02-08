@@ -2,6 +2,8 @@
 
 **Lenovo Ideapad Z500 Hackintosh**
 
+**REMEMBER TO CHANGE YOUR SMBIOS USING genSMBIOS**
+
 **_Spec:_**
 - CPU :                 Intel Core i5-3230M
 - GPU :                 Intel HD Graphics 4000
