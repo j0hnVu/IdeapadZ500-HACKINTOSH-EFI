@@ -20,7 +20,7 @@
 * Mojave : [v1.3](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v1.3)
 * Catalina : [v1.3](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v1.3) 
 * Big Sur : [v2.0](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v2.0)
-* Monterrey : ** COMING SOON **
+* Monterrey : **COMING SOON**
 
 **_Tutorial_**
 
