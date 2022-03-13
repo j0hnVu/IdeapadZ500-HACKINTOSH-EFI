@@ -17,9 +17,10 @@
 - Drive :               YGC-SA3-120G YinChu SATA3 120GB SSD
 
 **_Version installed_**:
-* Mojave
-* Catalina
-* Big Sur
+* Mojave : [v1.3](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v1.3)
+* Catalina : [v1.3](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v1.3) 
+* Big Sur : [v2.0](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v2.0)
+* Monterrey : ** COMING SOON **
 
 **_Tutorial_**
 
