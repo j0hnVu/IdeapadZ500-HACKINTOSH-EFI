@@ -16,6 +16,10 @@
 - Ethernet :            Realtek RTL8139/810x Fast Ethernet Adapter
 - Drive :               YGC-SA3-120G YinChu SATA3 120GB SSD
 
+**_Small note:_**
+- If you have the same spec, Mojave is the best option imo. Catalina and Big Sur is usable (and beautiful) but they sometimes feel laggy.
+- Also, I need to play CS1.6 so Mojave it is!
+
 **_Version installed_**:
 * Mojave : [v1.3](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v1.3)
 * Catalina : [v1.3](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases/tag/v1.3) 
