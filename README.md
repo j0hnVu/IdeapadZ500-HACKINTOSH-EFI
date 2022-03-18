@@ -60,6 +60,6 @@ Detailed instruction will soon be provided!
 **If you have any question, feel free to contact me:**
 
 - Email: hoanganh170788@gmail.com
-- Discord: ZooLs#4487
+- Discord: ZooLs#5693
 
 I will try my best to answer your question.
