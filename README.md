@@ -36,7 +36,7 @@ _Preparation:_
 * Explorer++ (FREE)
 * EFI folder can be found in the [Release section](https://github.com/j0hnVu/IdeapadZ500-HACKINTOSH-EFI/releases)
 
-_Installation:_ 
+**_Installation:_** 
 1.  Assign letter the EFI partition 
 * Open Minitool Partition Wizard on the installer USB
 * Find FAT32 partition (~100MB) on your USB drive
@@ -61,7 +61,8 @@ Detailed instruction will soon be provided!
 
 **If you have any question, feel free to contact me:**
 
-- Email: hoanganh170788@gmail.com
+- Email:   hoanganh170788@gmail.com
 - Discord: ZooLs#5693
+- Reddit:  zoolsUwU
 
 I will try my best to answer your question.
